@@ -27,6 +27,9 @@ https://iheartmob.org/pages/digital-safety-kit
 - Become Undoxxable
 https://hypixel.net/threads/doxxing-explained-how-to-become-un-doxxable.2399935/ 
 
+- How to remove your data from Data Brokers, for free:
+https://joindeleteme.com/help/diy-free-opt-out-guide/
+
 - What to do if you are doxxed:
 https://theanarchistlibrary.org/library/crimethinc-doxcare 
 https://onlinesos.org/resources/action-center/doxxing 
@@ -60,6 +63,11 @@ https://recordinglaw.com/united-states-recording-laws/
 
 - WITNESS helps people use video and technology to protect and defend human rights:
 https://www.witness.org/
+
+
+## Hate Groups
+- Life After Hate offers resources for concerned people to counter violent extremism, and a way out for those who are in hate groups.
+https://www.lifeafterhate.org/
 
 
 ## See Also:
